@@ -2,7 +2,9 @@
 
 🚀 Check out my New Portfolio [Zaheer.com](https://shaikzaheer.netlify.app/) 
 
-I'm ZaheerShaik Aspiring as Ai&Ml Engineer and Data scientist
+I'm ZaheerShaik.
+
+Aspiring as Ai&Ml Engineer and Data scientist.
 
 :mailbox: Reach me out!
  [![Linkedin Badge](https://img.shields.io/badge/-Zaheer-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaik-zaheer-220aab211) [![Mail Badge](https://img.shields.io/badge/-@Shaikzaheer-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/zaheerpersonal_) [![Mail Badge](https://img.shields.io/badge/-Zaheer-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:zaheershaik97042@gmail.com)
