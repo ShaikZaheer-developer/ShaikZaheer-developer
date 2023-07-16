@@ -1,4 +1,7 @@
-## Hi I'm Zaheer <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
+### Hey there :wave:
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=This+is+Shaik+Zaheer)](https://git.io/typing-svg)
+
 
 🚀 Check out my New Portfolio [Zaheer.com](https://shaikzaheer.netlify.app/) 
 
