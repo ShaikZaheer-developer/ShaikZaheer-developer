@@ -1,17 +1,10 @@
 ### Hey there :wave:
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=This+is+Shaik+Zaheer)](https://git.io/typing-svg)
-
-
-🚀 Check out my New Portfolio [Zaheer.com](https://shaikzaheer.netlify.app/) 
-
-I'm ZaheerShaik.
-
-Aspiring as Ai&Ml Engineer and Data scientist.
+### Glad to see you here :heart:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ShaikZaheer-developer&label=Views&color=blue&style=plastic" alt="ShaikZaheer-developer" /> </p>
 
 :mailbox: Reach me out!
  [![Linkedin Badge](https://img.shields.io/badge/-Zaheer-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaik-zaheer-220aab211) [![Mail Badge](https://img.shields.io/badge/-@Shaikzaheer-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/zaheerpersonal_) [![Mail Badge](https://img.shields.io/badge/-Zaheer-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:zaheershaik97042@gmail.com)
-
 
 👉 [Join Here](https://www.linkedin.com/in/shaik-zaheer-220aab211)
 
