@@ -15,7 +15,7 @@
 
 - 🏢 I am a Bachelors student in Artificial intelligence and Data science.
 - 💻 Want to Start a Startup, India.
-- 🙋‍ More about me: Visit [My Website](https://shaikzaheer.netlify.app/) 
+- 🙋‍ More about me: Visit [My Website](https://zaheerportfolio2023.netlify.app/) 
 - 🖇 Follow me on [LinkedIn](https://www.linkedin.com/in/shaik-zaheer-220aab211) 
 - 👯 Pronouns: He/Him
 
