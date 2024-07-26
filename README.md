@@ -4,9 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ShaikZaheer-developer&label=Views&color=blue&style=plastic" alt="ShaikZaheer-developer" /> </p>
 
 :mailbox: Reach me out!
- [![Linkedin Badge](https://img.shields.io/badge/-Zaheer-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaik-zaheer-220aab211) [![Mail Badge](https://img.shields.io/badge/-@Shaikzaheer-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/zaheerpersonal_) [![Mail Badge](https://img.shields.io/badge/-Zaheer-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:zaheershaik97042@gmail.com)
+ [![Linkedin Badge](https://img.shields.io/badge/-Zaheer-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zaheershaik2/) [![Mail Badge](https://img.shields.io/badge/-@Shaikzaheer-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/zaheershaik970/) [![Mail Badge](https://img.shields.io/badge/-Zaheer-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:zaheershaik97042@gmail.com)
 
-👉 [Join Here](https://www.linkedin.com/in/shaik-zaheer-220aab211)
+👉 [Join Here](https://www.linkedin.com/in/zaheershaik2/)
 
 
 <!-- TODO: Add last video link -->
@@ -16,7 +16,7 @@
 - 🏢 I am a Bachelors student in Artificial intelligence and Data science.
 - 💻 Want to Start a Startup, India.
 - 🙋‍ More about me: Visit [My Website](https://zaheerportfolio2023.netlify.app/) 
-- 🖇 Follow me on [LinkedIn](https://www.linkedin.com/in/shaik-zaheer-220aab211) 
+- 🖇 Follow me on [LinkedIn](https://www.linkedin.com/in/zaheershaik2/) 
 - 👯 Pronouns: He/Him
 
 
@@ -29,7 +29,7 @@
 
 #### Profile Visits 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Zaheer-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaik-zaheer-220aab211)
+[![Linkedin Badge](https://img.shields.io/badge/-Zaheer-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zaheershaik2/)
 
 <details>
 <summary>
