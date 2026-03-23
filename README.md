@@ -15,7 +15,7 @@
 
 - 🏢 I am a Bachelors Graduate in Artificial intelligence and Data science.
 - 💻 Want to Create a new Imapct in Technology, India.
-- 🙋‍ More about me: Visit [My Website](https://zaheerportfolio2023.netlify.app/) 
+- 🙋‍ More about me: Visit [My Website](https://zaheershaik.netlify.app/) 
 - 🖇 Follow me on [LinkedIn](https://www.linkedin.com/in/zaheershaik2/) 
 - 👯 Pronouns: He/Him
 
